@@ -1,7 +1,7 @@
 # Chatroom_CN
 
 ## A brief description
-This code is the assignment of homework 3 chat-room
+This code is the assignment of Computer Network homework 3 chat-room
 
 ## Details on development environment
 This java code is developed in Sublime.
