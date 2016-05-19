@@ -13,6 +13,6 @@ Run Server.class first, use ‘java Server <Port number>’ command. Default por
 ## Sample commands to invoke this code
 Commands include ‘who’, ‘last’, ‘broadcast’, ‘send’, ‘exit’(or ‘logout’). You’ll see the usage of commands when you running the code.
 
-## Additional functionalities.
+## Additional functionalities
 (a) Server can see the who is logged in, who is locked and some other clients information. Usage: enter ‘1’ to ‘4’ in terminal.
 (b) The code also records all the message clients have sent. The record is in chat_record.txt file.
